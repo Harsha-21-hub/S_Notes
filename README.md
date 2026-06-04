@@ -30,11 +30,3 @@ Because S Notes saves your custom drawings directly to your device, it requires 
 * **Package:** `com.hesi.snotes`
 * **Language:** Kotlin
 * **UI/UX:** Custom Views & XML 
-
----
-
-### About
-A native Android note-taking application featuring a custom drawing canvas and a dynamic, Nothing-styled brand identity.
-
-### Contributors
-* **Harsha-21-hub** (SORRA SRI HARSHA)

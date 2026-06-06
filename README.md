@@ -12,7 +12,7 @@ S Notes is a lightweight, high-performance infinite-canvas note-taking applicati
 ## 🚀 How to Install
 
 1. Go to the **Releases** section on the right side of this repository.
-2. Download the latest `app-release.apk` file to your Android device.
+2. Download the latest `S_Notes.apk` file to your Android device.
 3. Open the file and tap **Install** (you may need to allow "Install from Unknown Sources" in your browser/file manager settings).
 
 ## 🔒 Permissions Guide
